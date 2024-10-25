@@ -1,6 +1,6 @@
 # Automated Filament Changer (AFC) Klipper Add-on
 
-This Klipper plugin is for use on the Box Turtle Filament Changer (currently in closed beta). 
+This Klipper plugin is for use on the Box Turtle Filament Changer. 
 
 ## Installation
 
